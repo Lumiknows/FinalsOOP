@@ -1,0 +1,4 @@
+rim1 = Wheelset DT Swiss Hybrid 370 Alex // size = 27.5
+rim2 = Surron Light Bee // size = 19
+rim3 = MTB Alex EM30 // size = 29
+rim4 = 20" Bafang Motor for Fat Tire //size = 20

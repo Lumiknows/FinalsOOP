@@ -1,0 +1,4 @@
+Battery1 = 48V 14.5Ah Downtube Battery 
+Battery2 = 36V 13.5Ah Bottle Battery
+Battery3 = 36V 15.5Ah eZee Flat Battery
+Battery4 = 52V (14s) 23.5Ah Triangular Frame Battery

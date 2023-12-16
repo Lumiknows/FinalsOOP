@@ -1,0 +1,4 @@
+Charger1 = 36V 2A Anderson Charger
+Charger2 = 36V 2A XLR Charger
+Charger3 = 48V 2A ST3 Charger // 110 - 220V compatible
+Charger4 = 52V 2A XLR XVE Charger
